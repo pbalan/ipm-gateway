@@ -1,0 +1,10 @@
+{
+  "name": "mysql",
+  "connector": "mysql",
+  "url": "mysql://root:root@localhost/ipm_db",
+  "host": "localhost",
+  "port": 3306,
+  "user": "root",
+  "password": "root",
+  "database": "ipm_db"
+}
